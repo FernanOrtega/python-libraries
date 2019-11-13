@@ -12,6 +12,10 @@ This gist is intended to show a categorized list of useful Python libraries.
 	* https://pandas.pydata.org/
 * Pandas profiling (v2.3.0)
 	* https://github.com/pandas-profiling/pandas-profiling
+* Seaborn
+	* https://seaborn.pydata.org/
+* Cerberus &rightarrow; data validation 
+	* https://docs.python-cerberus.org/en/stable/
 * Scikit-learn (v0.21.3)
 	* https://scikit-learn.org/stable/
 * Matplotlib (v3.1.1)

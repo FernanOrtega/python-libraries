@@ -35,6 +35,11 @@ This gist is intended to show a categorized list of useful Python libraries.
 * FastAPI (v0.42.0)
 	* https://fastapi.tiangolo.com/
 
+### Miscelanea
+* Black (v19.10b0) - A library to format source code
+	* https://black.readthedocs.io/en/stable/index.html
+
+
 ## Authors
 
 * **Fernando Ortega** - [FernanOrtega](https://github.com/FernanOrtega)

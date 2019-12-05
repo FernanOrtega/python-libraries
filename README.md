@@ -38,6 +38,8 @@ This gist is intended to show a categorized list of useful Python libraries.
 ### Miscelanea
 * Black (v19.10b0) - A library to format source code
 	* https://black.readthedocs.io/en/stable/index.html
+* Numba (v0.46.0) - A Just-In-Time Compiler for Numerical Function in Python
+	* https://numba.pydata.org/
 
 
 ## Authors

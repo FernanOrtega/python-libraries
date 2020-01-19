@@ -20,6 +20,8 @@ This gist is intended to show a categorized list of useful Python libraries.
 	* https://scikit-learn.org/stable/
 * Matplotlib (v3.1.1)
 	* https://matplotlib.org/
+* JupyterPlot
+	* https://github.com/lvwerra/jupyterplot
 * SpaCy
 * NLTK
 * Stanford NLP

@@ -42,6 +42,8 @@ This gist is intended to show a categorized list of useful Python libraries.
 	* https://black.readthedocs.io/en/stable/index.html
 * Numba (v0.46.0) - A Just-In-Time Compiler for Numerical Function in Python
 	* https://numba.pydata.org/
+* Poetry (v1.0.2) - Python dependency management and packaging made easy.
+	* https://github.com/python-poetry/poetry
 
 
 ## Authors

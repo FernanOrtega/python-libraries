@@ -22,6 +22,8 @@ This gist is intended to show a categorized list of useful Python libraries.
 	* https://matplotlib.org/
 * JupyterPlot
 	* https://github.com/lvwerra/jupyterplot
+* FeatureTools - Automate Feature Engineering
+	* https://github.com/FeatureLabs/featuretools
 * SpaCy
 * NLTK
 * Stanford NLP

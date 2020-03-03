@@ -36,6 +36,18 @@ This gist is intended to show a categorized list of useful Python libraries.
 	* https://exploreflask.com/en/latest/index.html
 * FastAPI (v0.42.0)
 	* https://fastapi.tiangolo.com/
+* apscheduler (v3.6.3) - Advanced Python Scheduler
+	* https://apscheduler.readthedocs.io/en/stable/
+
+### RaspberryPI
+* RPi.GPIO (v0.7.0) - Library to manage gpio pins
+	* https://pypi.org/project/RPi.GPIO/
+* fake-rpi (v0.6.3) - Fake RaspberryPi for developing and testing purposes
+	* https://pypi.org/project/fake-rpi/
+
+### Microsoft / Azure / .NET
+* signalrcore (v0.8.4) - Library for SignalR Azure service
+	* https://pypi.org/project/signalrcore/
 
 ### Miscelanea
 * Black (v19.10b0) - A library to format source code

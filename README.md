@@ -6,6 +6,8 @@ This gist is intended to show a categorized list of useful Python libraries.
 ### Command line interfaces
 * Click (v7.0)
 	* https://click.palletsprojects.com/en/7.x/
+* Plac (v1.1.3)
+	* http://micheles.github.io/plac/
 
 ### Data Science and Artificial Intelligence (Machine Learning, NLP, Deep Learning,...)
 * Pandas (v0.25.3)

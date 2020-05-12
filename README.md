@@ -26,13 +26,22 @@ This gist is intended to show a categorized list of useful Python libraries.
 	* https://github.com/lvwerra/jupyterplot
 * FeatureTools - Automate Feature Engineering
 	* https://github.com/FeatureLabs/featuretools
+* StatsModels
+	* https://www.statsmodels.org/stable/index.html
 * SpaCy
+	* https://spacy.io/api
 * NLTK
+	* https://www.nltk.org/api/nltk.html
 * Stanford NLP
+	* https://stanfordnlp.github.io/stanfordnlp/
 * Tensorflow
+	* https://www.tensorflow.org/api_docs/python/tf
 * Keras
+	* https://keras.io/api/
 * PyTorch
+	* https://github.com/pytorch/pytorch
 * PySpark
+	* https://spark.apache.org/docs/latest/api/python/index.html
 
 ### Rest API
 * Flask (v1.1.1)
